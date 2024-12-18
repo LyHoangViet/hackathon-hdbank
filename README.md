@@ -21,6 +21,8 @@ Hướng đang phát triển:
 - Phân tích phát hiện gian lận trong voice (Amazon Connect)
 - Phân tích những yêu cầu của khách hàng và hiểu hơn về những thông tin cần thiết của khách hàng (Amazon Bedrock)
 
+Link Overview
+
 - Link gán hình: https://www.figma.com/design/7gs6lGtRKisrdMYcrxJEkT/Untitled?node-id=0-1&node-type=canvas&t=bBu0jVvXJAUUpcL3-0
 - Link Source Code: https://github.com/LyHoangViet/hackathon-hdbank.git
 - Link Workshop: https://github.com/LyHoangViet/ai-call-analysis.git
