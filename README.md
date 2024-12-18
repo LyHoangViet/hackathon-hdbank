@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1yYfcDMeP6X4r9yUZ4AWC8K_-RZbInvht/view?usp=shari
 - Link video Amazon Q: https://www.youtube.com/watch?v=tZE7yJA50ag&t=519s
 - Link doc Amazon Q: https://docs.aws.amazon.com/connect/latest/adminguide/amazon-q-connect.html
 
-Link doc customer profile: https://docs.aws.amazon.com/connect/latest/adminguide/customer-profiles.html
+- Link doc customer profile: https://docs.aws.amazon.com/connect/latest/adminguide/customer-profiles.html
 
 ### Amazon Transribe
 
